@@ -1,8 +1,3 @@
-# encrypt by FIRZAH
-# Github : https://github.com/FIRandZAH
-# WhatsApp : +62 831-7059-7744
-# Time : Sun Sep 29 18:28:20 2024
-
 script = ''
 script += "exec("
 script += "__imp"
